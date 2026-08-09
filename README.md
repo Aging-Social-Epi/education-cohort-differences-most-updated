@@ -1,9 +1,6 @@
 # education-cohort-differences-most-updated
-Educational Attainment and Cohort Differences in Dementia Prevalence: A Counterfactual Decomposition Analysis
 This repository contains the analytic code used to produce the results reported in the manuscript:
-
 Educational Attainment and Cohort Differences in Dementia Prevalence: A Counterfactual Decomposition Analysis
-
 The code is provided to support transparency and reproducibility of the published findings.
 
 Data Availability
