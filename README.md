@@ -29,7 +29,6 @@ classification files).
       04_APC_model_all.R           Overall
       04_APC_model_{male,female}.R Stratified by sex/gender
       04_APC_model_{white,black,hisp}.R  Stratified by race and ethnicity
-      *_GP_only.R                  Gianattasio-Power algorithm
 
     sensitivity_parental/        Additionally adjusted for parental education
     sensitivity_proxy/           Excluding proxy interviews
