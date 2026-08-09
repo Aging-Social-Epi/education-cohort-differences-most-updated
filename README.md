@@ -33,9 +33,6 @@ classification files).
     sensitivity_parental/        Additionally adjusted for parental education
     sensitivity_proxy/           Excluding proxy interviews
 
-    RR_absolute_scale.R          Estimates on the absolute scale
-    RR_mc_convergence.R          Monte Carlo and bootstrap convergence checks
-    RR_drift_sensitivity.R       Sensitivity to the age-period-cohort parameterization
 
 ## Reproducing the analysis
 
@@ -47,9 +44,7 @@ Update the file paths at the top of each script, then run in order:
 4. Scripts in `sensitivity_parental/` and `sensitivity_proxy/`
 
 
-Dementia classification is estimated under two algorithms. Scripts without a suffix
-use the Langa-Weir classification; `*_GP_only.R` scripts use the Gianattasio-Power
-algorithm.
+
 
 ## Software
 
